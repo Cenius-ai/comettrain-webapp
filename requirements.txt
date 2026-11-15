@@ -1,0 +1,3 @@
+# CometTrain uses the Python standard library only.
+# There are no third-party requirements to install; this file exists so the
+# project has a conventional dependency manifest that resolves to nothing.
