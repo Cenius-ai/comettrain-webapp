@@ -38,7 +38,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Open the repo and you'll find a complete Full-stack app application (22 files). Top-level layout: `demo/`, `docs/`, `tests/`. `install.sh` wires up dependencies and loads seed records; after it runs the app has real data to show. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+Open the repo and you'll find a complete Full-stack app application (13 files). Top-level layout: `demo/`, `docs/`, `tests/`. `install.sh` wires up dependencies and loads seed records; after it runs the app has real data to show. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
